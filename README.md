@@ -1,37 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Builder%20%7C%20CS%20Student&descAlignY=55&descAlign=50" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Pratik+Mishra!;Computer+Science+Student+@+Vartak+College;Full-Stack+Developer+%26+AI+Builder;Open+Source+Contributor;Always+Learning+%26+Building!)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pratik1258.netlify.app-blue?style=for-the-badge&logoColor=white)](https://pratik1258.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratik1258m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
-[![GitHub](https://img.shields.io/badge/GitHub-pratik1258m-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik1258m)
-[![Email](https://img.shields.io/badge/Email-pratikmishra206@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=pratik1258m&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 👨💻 About Me
-
-```python
-class PratikMishra:
-    name = "Pratik Mishra"
-    location = "Nallasopara East, Maharashtra, India 🇮🇳"
-    education = "B.Sc. Computer Science — Vartak College"
-    email = "pratikmishra206@gmail.com"
-    
-    interests = ["AI Development", "Full-Stack Web Dev", "Data Analysis", "Open Source"]
-    currently_learning = ["Advanced AI/ML", "Cloud Computing", "System Design"]
-    looking_for = "Internship & Collaboration Opportunities"
-    fun_fact = "I build AI systems from scratch! 🤖"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Pratik%20Mishra&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=55&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Garden!+🌱;Full-Stack+Web+Developer;Building+Autonomous+AI+Systems;Python+%7C+JavaScript+%7C+TypeScript;Turning+Coffee+into+Code+☕)](https://git.io/typing-svg)
