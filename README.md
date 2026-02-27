@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Pratik%20Mishra&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=55&descAlign=50" />
