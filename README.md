@@ -34,6 +34,7 @@ const pratik = {
   education:  "B.Sc. Computer Science @ Vartak College, Mumbai",
   role:       "Full-Stack Developer & AI Systems Builder",
 
+  experience: "12+ client projects delivered for real businesses 💼",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "LLM architectures", "System Design"],
   openTo:     ["Open Source Contributions", "Collaborations", "Internships"],
@@ -161,10 +162,11 @@ const pratik = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
+- [x] 💼 Delivered **12+ client projects** for real businesses ✅
 - [x] 🌍 Contribute to open-source projects (FitMart ✅)
-- [x] 🔥 Maintain a near-perfect GitHub contribution streak (3,537+ contributions ✅)
+- [x] 🔥 Maintained near-perfect GitHub streak (3,537+ contributions ✅)
 - [ ] 🏅 Earn **Pull Shark** badge on GitHub
 - [ ] ⭐ Get first repo to 50 stars
 - [ ] 🤖 Ship Nexus AI v1.0 publicly
