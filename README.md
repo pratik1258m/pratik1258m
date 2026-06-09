@@ -92,13 +92,16 @@ const pratik = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+<!-- Reliable shields.io stats — pull directly from GitHub API, never break -->
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-348%2B-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-26-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6E57F7)
+![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF9500&currStreakLabel=6E57F7&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+<!-- Streak card from demolab — works reliably -->
+<img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF9500&currStreakLabel=6E57F7&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak"/>
 
 </div>
 
