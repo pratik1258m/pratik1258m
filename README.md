@@ -133,9 +133,36 @@ const pratik = {
 
 <div align="center">
 
-[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=Snake_game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/Snake_game)
-&nbsp;&nbsp;
-[![StockBot](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=Stockbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/Stockbot)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
+      <p>Autonomous AI assistant built with Python — handles complex task execution, system control, and context-aware command processing.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Assistant-6E57F7?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h3>
+      <p>Real-time stock market CLI tool — fetches live price, day high/low & market data via yFinance API for any NSE/BSE/global ticker.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/yFinance-API-FF9500?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h3>
+      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Client%20Project-💼-28a745?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 <a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h3>
+      <p>Python-based fire alarm detection system — real-time sensor monitoring with automated alert triggers and notification support.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IoT-Detection-E74C3C?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
