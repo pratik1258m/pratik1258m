@@ -38,6 +38,7 @@ const pratik = {
   learning:   ["Generative AI", "LLM architectures", "System Design"],
   openTo:     ["Open Source Contributions", "Collaborations", "Internships"],
 
+  streak:     "3,537+ contributions in the last year 🔥 (near-perfect green graph)",
   funFact:    "I believe elegant code is the foundation of powerful technology ✨",
 };
 ```
@@ -163,6 +164,7 @@ const pratik = {
 ## 🎯 2025 Goals
 
 - [x] 🌍 Contribute to open-source projects (FitMart ✅)
+- [x] 🔥 Maintain a near-perfect GitHub contribution streak (3,537+ contributions ✅)
 - [ ] 🏅 Earn **Pull Shark** badge on GitHub
 - [ ] ⭐ Get first repo to 50 stars
 - [ ] 🤖 Ship Nexus AI v1.0 publicly
