@@ -108,7 +108,7 @@ const pratik = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -130,9 +130,9 @@ const pratik = {
 
 <div align="center">
 
-[![Nexus AI](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=nexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/nexus)
+[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=Snake_game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/Snake_game)
 &nbsp;&nbsp;
-[![Regnex](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=Regnex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/Regnex)
+[![StockBot](https://github-readme-stats.vercel.app/api/pin/?username=pratik1258m&repo=Stockbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&icon_color=6E57F7)](https://github.com/pratik1258m/Stockbot)
 
 </div>
 
@@ -148,19 +148,6 @@ const pratik = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
