@@ -111,7 +111,7 @@ const pratik = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
 
 </div>
 
