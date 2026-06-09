@@ -184,7 +184,7 @@ const pratik = {
 - [x] 💼 Delivered **12+ client projects** for real businesses ✅
 - [x] 🌍 Contribute to open-source projects (FitMart ✅)
 - [x] 🔥 Maintained near-perfect GitHub streak (3,537+ contributions ✅)
-- [ ] 🏅 Earn **Pull Shark** badge on GitHub
+- [x] 🏅 Earn **Pull Shark** badge on GitHub ✅
 - [ ] ⭐ Get first repo to 50 stars
 - [ ] 🤖 Ship Nexus AI v1.0 publicly
 - [ ] 📝 Write technical blog posts about AI & MERN
