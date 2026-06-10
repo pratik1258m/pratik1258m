@@ -152,7 +152,7 @@ const pratik = {
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 <a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h3>
-      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS.</p>
+      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS. <a href="https://pratik1258m.github.io/Balajifarm/"><b>Live Demo 🚀</b></a></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/Client%20Project-💼-28a745?style=flat-square"/>
     </td>
