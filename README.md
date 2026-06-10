@@ -143,9 +143,10 @@ const pratik = {
     </td>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h3>
-      <p>Real-time stock market CLI tool — fetches live price, day high/low & market data via yFinance API for any NSE/BSE/global ticker.</p>
+      <p>Real-time stock market web app — fetches live price, day high/low & market data via yFinance API. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo 🚀</b></a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/yFinance-API-FF9500?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Live-Render-22c55e?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -185,8 +186,9 @@ const pratik = {
 - [x] 🌍 Contribute to open-source projects (FitMart ✅)
 - [x] 🔥 Maintained near-perfect GitHub streak (3,537+ contributions ✅)
 - [x] 🏅 Earn **Pull Shark** badge on GitHub ✅
+- [x] 🚀 Shipped **Stockbot** publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com)) ✅
 - [ ] ⭐ Get first repo to 50 stars
-- [ ] 🤖 Ship Nexus AI v1.0 publicly
+- [ ] 🤖 Ship **Nexus AI** v1.0 publicly
 - [ ] 📝 Write technical blog posts about AI & MERN
 - [ ] 🎓 Complete B.Sc. CS with distinction
 
