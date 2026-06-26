@@ -156,35 +156,35 @@ const pratik = {
 ---
 
 
-## 🌟 Open Source Contributions
+## Open Source Contributions
 
 > Contributing to real-world production codebases — merged PRs, security fixes, and performance improvements.
 
 | Repository | Contribution | PR |
 |---|---|---|
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | 🔒 Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | 🐛 Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | ⚡ Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
-| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | 🟢 Validation: Enforce 100-character limit on organization names in Zod schema & UI | [#181](https://github.com/IvanTran-2001/FriendChise/pull/181) |
-| **[lutzkuen/tokenclaw](https://github.com/lutzkuen/tokenclaw)** | 📦 Refactor: Extract dashboard HTML template into dedicated stats module | [#931](https://github.com/lutzkuen/tokenclaw/pull/931) |
+| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
+| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
+| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
+| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | Validation: Enforce 100-character limit on organization names in Zod schema & UI (Merged) | [#181](https://github.com/IvanTran-2001/FriendChise/pull/181) |
+| **[lutzkuen/tokenclaw](https://github.com/lutzkuen/tokenclaw)** | Refactor: Extract dashboard HTML template into dedicated stats module | [#931](https://github.com/lutzkuen/tokenclaw/pull/931) |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
+      <h3><a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
       <p>Autonomous AI assistant built with Python — handles complex task execution, system control, and context-aware command processing.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/AI-Assistant-6E57F7?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h3>
-      <p>Real-time stock market web app — fetches live price, day high/low & market data via yFinance API. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo 🚀</b></a></p>
+      <h3><a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h3>
+      <p>Real-time stock market web app — fetches live price, day high/low & market data via yFinance API. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo</b></a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Live-Render-22c55e?style=flat-square"/>
@@ -192,13 +192,13 @@ const pratik = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h3>
-      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS. <a href="https://pratik1258m.github.io/Balajifarm/"><b>Live Demo 🚀</b></a></p>
+      <h3><a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h3>
+      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS. <a href="https://pratik1258m.github.io/Balajifarm/"><b>Live Demo</b></a></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Client%20Project-💼-28a745?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Client%20Project-28a745?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h3>
+      <h3><a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h3>
       <p>Python-based fire alarm detection system — real-time sensor monitoring with automated alert triggers and notification support.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/IoT-Detection-E74C3C?style=flat-square"/>
@@ -210,7 +210,7 @@ const pratik = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
