@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20CS%20Student&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20%26%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Chief+Technology+Officer;Full-Stack+%26+AI+Systems+Developer;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,13 +31,14 @@
 const pratik = {
   name:       "Pratik Mishra",
   location:   "Maharashtra, India",
-  education:  "B.Sc. Computer Science @ Vartak College, Mumbai",
-  role:       "Full-Stack Developer & AI Systems Builder",
+  education:  "BS Computer Science @ University of Mumbai (Vartak College)",
+  role:       "Chief Technology Officer & AI Systems Developer",
 
-  experience: "12+ client projects delivered for real businesses",
+  experience: "12+ client projects | CTO at Regnex | DevOps & AI Internships",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
-  learning:   ["Generative AI", "LLM architectures", "System Design"],
-  openTo:     ["Open Source Contributions", "Collaborations", "Internships"],
+  learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
+  credentials: ["Qualcomm AI Upskilling (Model to App)"],
+  openTo:     ["Open Source Contributions", "Collaborations"],
 
   streak:     "5,189+ contributions (3,441 in 2025 | 1,748+ in 2026) (near-perfect green graph)",
   funFact:    "I believe elegant code is the foundation of powerful technology",
@@ -224,6 +225,8 @@ const pratik = {
 <!-- test signed commits -->
 ## 2026 Goals
 
+- [x] Assumed Chief Technology Officer (CTO) role at REGNEX
+- [x] Completed Qualcomm AI Upskilling Certificate (Model to App)
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
 - [x] Maintained consistent contribution streak (5,189+ contributions)
@@ -232,7 +235,7 @@ const pratik = {
 - [ ] Receive 50 stars on a repository
 - [ ] Release Nexus AI v1.0 publicly
 - [ ] Publish technical articles on artificial intelligence and full-stack development
-- [ ] Graduate B.Sc. Computer Science with distinction
+- [ ] Graduate BS Computer Science with distinction
 
 ---
 
