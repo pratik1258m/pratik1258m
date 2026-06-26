@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Pratik+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Full-Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,28 +25,28 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```typescript
 const pratik = {
   name:       "Pratik Mishra",
-  location:   "Maharashtra, India 🇮🇳",
+  location:   "Maharashtra, India",
   education:  "B.Sc. Computer Science @ Vartak College, Mumbai",
   role:       "Full-Stack Developer & AI Systems Builder",
 
-  experience: "12+ client projects delivered for real businesses 💼",
+  experience: "12+ client projects delivered for real businesses",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "LLM architectures", "System Design"],
   openTo:     ["Open Source Contributions", "Collaborations", "Internships"],
 
-  streak:     "5,186+ contributions (3,441 in 2025 | 1,745+ in 2026) 🔥 (near-perfect green graph)",
-  funFact:    "I believe elegant code is the foundation of powerful technology ✨",
+  streak:     "5,186+ contributions (3,441 in 2025 | 1,745+ in 2026) (near-perfect green graph)",
+  funFact:    "I believe elegant code is the foundation of powerful technology",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const pratik = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const pratik = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -134,11 +134,11 @@ const pratik = {
 
 ---
 
-## 🏅 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
 
-<h4>🏆 Earned Achievements</h4>
+<h4>Earned Achievements</h4>
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="85" title="Pull Shark (Level 2) - Merged 16+ PRs successfully" alt="Pull Shark (Level 2)" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="85" title="Pair Extraordinaire (Level 2) - Co-authored 10+ PRs successfully" alt="Pair Extraordinaire (Level 2)" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="85" title="YOLO - Merged a PR without code review" alt="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -146,7 +146,7 @@ const pratik = {
 
 <br/><br/>
 
-<h4>🎯 Next Milestones (Goals)</h4>
+<h4>Next Milestones</h4>
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="70" title="Galaxy Brain (In Progress) - Answers submitted to Next.js Q&A, awaiting approval!" alt="Galaxy Brain (In Progress)" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="70" title="Starstruck (Locked) - Create a repository that receives 16+ stars" alt="Starstruck (Locked)" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="70" title="Public Sponsor (Locked) - Sponsor an open-source project or developer" alt="Public Sponsor (Locked)" />
@@ -230,17 +230,17 @@ const pratik = {
 ---
 
 <!-- test signed commits -->
-## 🎯 2026 Goals
+## 2026 Goals
 
-- [x] 💼 Delivered **12+ client projects** for real businesses ✅
-- [x] 🌍 Contribute to open-source projects (FitMart ✅)
-- [x] 🔥 Maintained near-perfect GitHub streak (5,084+ contributions ✅)
-- [x] 🏅 Earn **Pull Shark** badge on GitHub ✅
-- [x] 🚀 Shipped **Stockbot** publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com)) ✅
-- [ ] ⭐ Get first repo to 50 stars
-- [ ] 🤖 Ship **Nexus AI** v1.0 publicly
-- [ ] 📝 Write technical blog posts about AI & MERN
-- [ ] 🎓 Complete B.Sc. CS with distinction
+- [x] Delivered 12+ client projects for real businesses
+- [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw)
+- [x] Maintained consistent contribution streak (5,186+ contributions)
+- [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
+- [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
+- [ ] Receive 50 stars on a repository
+- [ ] Release Nexus AI v1.0 publicly
+- [ ] Publish technical articles on artificial intelligence and full-stack development
+- [ ] Graduate B.Sc. Computer Science with distinction
 
 ---
 
@@ -248,7 +248,7 @@ const pratik = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⭐ If you like what I build, consider starring my repos — it motivates me to keep going! ⭐**
+**If you like what I build, consider starring my repositories to support my work.**
 
 *"Elegant code is the foundation of powerful technology."*
 
