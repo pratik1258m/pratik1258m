@@ -39,7 +39,7 @@ const pratik = {
   learning:   ["Generative AI", "LLM architectures", "System Design"],
   openTo:     ["Open Source Contributions", "Collaborations", "Internships"],
 
-  streak:     "5,186+ contributions (3,441 in 2025 | 1,745+ in 2026) (near-perfect green graph)",
+  streak:     "5,189+ contributions (3,441 in 2025 | 1,748+ in 2026) (near-perfect green graph)",
   funFact:    "I believe elegant code is the foundation of powerful technology",
 };
 ```
@@ -101,7 +101,7 @@ const pratik = {
 <div align="center">
 
 <!-- Reliable shields.io stats — pull directly from GitHub API, never break -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,745-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,748-6E57F7?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public%20Repos-28-6E57F7?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6E57F7)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
@@ -234,7 +234,7 @@ const pratik = {
 
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw)
-- [x] Maintained consistent contribution streak (5,186+ contributions)
+- [x] Maintained consistent contribution streak (5,189+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
 - [ ] Receive 50 stars on a repository
