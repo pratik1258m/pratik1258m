@@ -186,6 +186,15 @@ const pratik = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7" alt="Activity Graph"/>
 
+<br/>
+
+<!-- Contribution Snake eating the grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
