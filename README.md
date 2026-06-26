@@ -34,7 +34,7 @@ const pratik = {
   education:  "BS Computer Science @ University of Mumbai (Vartak College)",
   role:       "Chief Technology Officer & AI Systems Developer",
 
-  experience: "12+ client projects | CTO at Regnex | DevOps & AI Internships",
+  experience: "12+ client projects | CTO at a startup | DevOps & AI Internships",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
   credentials: [
@@ -230,7 +230,7 @@ const pratik = {
 <!-- test signed commits -->
 ## 2026 Goals
 
-- [x] Assumed Chief Technology Officer (CTO) role at REGNEX
+- [x] Assumed Chief Technology Officer (CTO) role at a startup
 - [x] Completed Qualcomm AI Upskilling Certificate (Model to App)
 - [x] Earned certifications in Agentic AI (Hugging Face) and Claude Code (Anthropic)
 - [x] Delivered 12+ client projects for real businesses
