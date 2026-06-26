@@ -37,7 +37,12 @@ const pratik = {
   experience: "12+ client projects | CTO at Regnex | DevOps & AI Internships",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
-  credentials: ["Qualcomm AI Upskilling (Model to App)"],
+  credentials: [
+    "Qualcomm AI Upskilling (Model to App)",
+    "Hugging Face Agentic AI",
+    "Anthropic Claude Code",
+    "edQuest MERN Stack Development"
+  ],
   openTo:     ["Open Source Contributions", "Collaborations"],
 
   streak:     "5,189+ contributions (3,441 in 2025 | 1,748+ in 2026) (near-perfect green graph)",
@@ -227,6 +232,7 @@ const pratik = {
 
 - [x] Assumed Chief Technology Officer (CTO) role at REGNEX
 - [x] Completed Qualcomm AI Upskilling Certificate (Model to App)
+- [x] Earned certifications in Agentic AI (Hugging Face) and Claude Code (Anthropic)
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
 - [x] Maintained consistent contribution streak (5,189+ contributions)
