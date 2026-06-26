@@ -94,7 +94,7 @@ const pratik = {
 
 <!-- Reliable shields.io stats — pull directly from GitHub API, never break -->
 ![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,643-6E57F7?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-26-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-28-6E57F7?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6E57F7)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
 
@@ -102,6 +102,15 @@ const pratik = {
 
 <!-- Streak card from demolab — works reliably -->
 <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF9500&currStreakLabel=6E57F7&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=FF9500&text_color=ffffff" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff" height="165" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -126,6 +135,8 @@ const pratik = {
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | 🔒 Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | 🐛 Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | ⚡ Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
+| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | 🟢 Validation: Enforce 100-character limit on organization names in Zod schema & UI | [#181](https://github.com/IvanTran-2001/FriendChise/pull/181) |
+| **[lutzkuen/tokenclaw](https://github.com/lutzkuen/tokenclaw)** | 📦 Refactor: Extract dashboard HTML template into dedicated stats module | [#931](https://github.com/lutzkuen/tokenclaw/pull/931) |
 
 ---
 
@@ -179,7 +190,7 @@ const pratik = {
 
 ---
 
-
+<!-- test signed commits -->
 ## 🎯 2026 Goals
 
 - [x] 💼 Delivered **12+ client projects** for real businesses ✅
