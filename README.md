@@ -238,10 +238,10 @@ const pratik = {
 - [x] Maintained consistent contribution streak (5,189+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
-- [x] Received 50+ stars on repositories
-- [x] Released Nexus AI v1.0 publicly
-- [x] Published technical articles on artificial intelligence and full-stack development
-- [x] Graduating BS Computer Science with distinction (Class of 2027)
+- [ ] Receive 50 stars on a repository
+- [ ] Release Nexus AI v1.0 publicly
+- [ ] Publish technical articles on artificial intelligence and full-stack development
+- [ ] Graduate BS Computer Science with distinction
 
 ---
 
