@@ -231,8 +231,8 @@ const pratik = {
 ## 2026 Goals
 
 - [x] Assumed Chief Technology Officer (CTO) role at a startup
-- [x] Completed Qualcomm AI Upskilling Certificate (Model to App)
-- [x] Earned certifications in Agentic AI (Hugging Face) and Claude Code (Anthropic)
+- [x] Completed Qualcomm AI Upskilling Certificate (Model to App) to gain real-world exposure with a top company
+- [x] Earned certifications in Agentic AI (Hugging Face) and Claude Code (Anthropic) to gain knowledge about agentic AI
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
 - [x] Maintained consistent contribution streak (5,189+ contributions)
