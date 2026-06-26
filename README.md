@@ -126,6 +126,25 @@ const pratik = {
 
 ---
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+| Achievement | Tier / Status | Description |
+| :---: | :---: | :--- |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="80" alt="Pull Shark" /> | **Pull Shark (Level 2)** | Merged 16+ pull requests successfully. *(Earned!)* 🦈 |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="80" alt="Pair Extraordinaire" /> | **Pair Extraordinaire (Level 2)** | Co-authored 10+ merged pull requests. *(Earned!)* 👥 |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="80" alt="YOLO" /> | **YOLO** | Merged a pull request without code review. *(Earned!)* ⚡ |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="80" alt="Quickdraw" /> | **Quickdraw** | Closed an issue/PR within 5 minutes of opening. *(Earned!)* 🏹 |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="80" alt="Galaxy Brain" /> | **Galaxy Brain (In Progress)** | Have 2 answers accepted in Discussions (Answers submitted, awaiting approval! 🚀) |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="80" alt="Starstruck" /> | **Starstruck (Locked)** | Create a repository that receives 16+ stars (Goal milestone). |
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="80" alt="Public Sponsor" /> | **Public Sponsor (Locked)** | Sponsor an open-source contributor/project (Goal milestone). |
+
+</div>
+
+---
+
+
 ## 🌟 Open Source Contributions
 
 > Contributing to real-world production codebases — merged PRs, security fixes, and performance improvements.
