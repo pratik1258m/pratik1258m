@@ -134,27 +134,6 @@ const pratik = {
 
 ---
 
-## GitHub Achievements
-
-<div align="center">
-
-<h4>Earned Achievements</h4>
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="85" title="Pull Shark (Level 2) - Merged 16+ PRs successfully" alt="Pull Shark (Level 2)" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="85" title="Pair Extraordinaire (Level 2) - Co-authored 10+ PRs successfully" alt="Pair Extraordinaire (Level 2)" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="85" title="YOLO - Merged a PR without code review" alt="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="85" title="Quickdraw - Closed an issue or PR within 5 minutes of opening" alt="Quickdraw" />
-
-<br/><br/>
-
-<h4>Next Milestones</h4>
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="70" title="Galaxy Brain (In Progress) - Answers submitted to Next.js Q&A, awaiting approval!" alt="Galaxy Brain (In Progress)" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="70" title="Starstruck (Locked) - Create a repository that receives 16+ stars" alt="Starstruck (Locked)" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="70" title="Public Sponsor (Locked) - Sponsor an open-source project or developer" alt="Public Sponsor (Locked)" />
-
-</div>
-
----
-
 
 ## Open Source Contributions
 
