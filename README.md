@@ -202,6 +202,29 @@ const pratik = {
 
 ---
 
+## Flagship System Architecture: Nexus AI
+
+> Visualizing the execution loop and system-control capabilities of my flagship autonomous assistant.
+
+```mermaid
+graph TD
+    classDef default fill:#0d1117,stroke:#6E57F7,stroke-width:2px,color:#ffffff;
+    classDef highlight fill:#1f2937,stroke:#FF9500,stroke-width:2px,color:#ffffff;
+    
+    User([User Request]) --> Agent[Nexus Agent Core]:::highlight
+    Agent --> Planner[Reasoning & Planning Engine]
+    Planner --> Exec[Tool Broker & Executor]
+    Exec --> OS[OS & System Control]
+    Exec --> Web[Web APIs & Search]
+    Exec --> Files[File & Code Workspace]
+    OS --> Env[State Feedback & Logs]
+    Web --> Env
+    Files --> Env
+    Env --> Agent
+```
+
+---
+
 ## Contribution Graph
 
 <div align="center">
