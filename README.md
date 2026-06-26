@@ -150,6 +150,10 @@ const pratik = {
 
 | Repository | Contribution | PR |
 |---|---|---|
+| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback | [#41](https://github.com/lovellai-dev/odyssey/pull/41) |
+| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add option to scrub inside fenced code blocks with --scrub-fenced | [#6](https://github.com/fishonbike/vault-engine/pull/6) |
+| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add word-boundary guards for ASCII surfaces to prevent partial-word hits | [#7](https://github.com/fishonbike/vault-engine/pull/7) |
+| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Docs: Add documented example and caveats for LM Studio / OpenAI-compat integration | [#8](https://github.com/fishonbike/vault-engine/pull/8) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
@@ -221,7 +225,7 @@ const pratik = {
 ## 2026 Goals
 
 - [x] Delivered 12+ client projects for real businesses
-- [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw)
+- [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
 - [x] Maintained consistent contribution streak (5,189+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
