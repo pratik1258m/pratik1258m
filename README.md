@@ -45,7 +45,7 @@ const pratik = {
   ],
   openTo:     ["Open Source Contributions", "Collaborations"],
 
-  streak:     "5,249+ contributions (3,441 in 2025 | 1,808+ in 2026) (near-perfect green graph)",
+  streak:     "5,257+ contributions (3,441 in 2025 | 1,816+ in 2026) (near-perfect green graph)",
   funFact:    "I believe elegant code is the foundation of powerful technology",
 };
 ```
@@ -116,7 +116,7 @@ const pratik = {
 <div align="center">
 
 <!-- Reliable shields.io stats — pull directly from GitHub API, never break -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,808-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,816-6E57F7?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public%20Repos-28-6E57F7?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6E57F7)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
@@ -156,7 +156,7 @@ const pratik = {
 
 | Repository | Contribution | PR |
 |---|---|---|
-| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback | [#41](https://github.com/lovellai-dev/odyssey/pull/41) |
+| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback (Merged) | [#41](https://github.com/lovellai-dev/odyssey/pull/41) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add option to scrub inside fenced code blocks with --scrub-fenced | [#6](https://github.com/fishonbike/vault-engine/pull/6) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add word-boundary guards for ASCII surfaces to prevent partial-word hits | [#7](https://github.com/fishonbike/vault-engine/pull/7) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Docs: Add documented example and caveats for LM Studio / OpenAI-compat integration | [#8](https://github.com/fishonbike/vault-engine/pull/8) |
@@ -212,15 +212,15 @@ const pratik = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&v=1" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&v=2" alt="Activity Graph"/>
 
 <br/>
 
 <!-- Contribution Snake eating the grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=1">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2">
 </picture>
 
 </div>
@@ -235,7 +235,7 @@ const pratik = {
 - [x] Earned professional certifications in agentic AI and LLM orchestration to expand knowledge of autonomous systems
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
-- [x] Maintained consistent contribution streak (5,249+ contributions)
+- [x] Maintained consistent contribution streak (5,257+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
 - [ ] Receive 50 stars on a repository
