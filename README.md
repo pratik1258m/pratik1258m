@@ -226,9 +226,9 @@ const pratik = {
 
 <!-- Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
 <br/>
