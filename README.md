@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Futuristic 3D Tech Banner -->
-<img src="./assets/header.png" alt="Pratik Mishra Banner" width="100%" />
-
-<br/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20and%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
