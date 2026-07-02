@@ -217,22 +217,19 @@ const pratik = {
 
 <br/>
 
-<!-- Aligned Stats Cards -->
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" alt="Top Languages" width="60%"/>
-    </td>
-  </tr>
-</table>
+<!-- Streak card from demolab — works reliably -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
+</p>
 
 <br/>
 
