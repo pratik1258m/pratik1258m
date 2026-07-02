@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20and%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18" width="100%" />
+<!-- Futuristic 3D Tech Banner -->
+<img src="./assets/header.png" alt="Pratik Mishra Banner" width="100%" />
+
+<br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Chief+Technology+Officer;Full-Stack+%26+AI+Systems+Developer;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Chief+Technology+Officer;Full-Stack+%26+AI+Systems+Developer;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Social & Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikai.in)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
@@ -18,14 +20,14 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pratik1258m&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=6E57F7&logo=github&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=pratik1258m&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
 ```typescript
 const pratik = {
@@ -52,12 +54,40 @@ const pratik = {
 
 ---
 
-## Tech Stack
- 
+## 🚀 Core Strengths & Focus
+
 <div align="center">
- 
-**Languages**
- 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic AI & Systems Orchestration</h4>
+      <p>Designing autonomous agent loops, prompt structures, and orchestrating models (Anthropic, OpenAI, Hugging Face) using Qualcomm AI SDKs and local tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Full-Stack Scaling & Architecture</h4>
+      <p>Building highly interactive React/Next.js frontends and robust Node.js/Express/FastAPI backends with atomic database constraints and SEO-first strategies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Open-Source Mentorship & Community</h4>
+      <p>Actively auditing and securing major repositories (vercel/next.js) and fixing security vulnerabilities (PostCSS XSS breakouts, dependency tree audits).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Performance & Optimization</h4>
+      <p>Applying best practices to slash page load times, deduplicate font loading, and optimize execution pipelines for both backend environments and UI renders.</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages & Scripting
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,96 +96,48 @@ const pratik = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-6E57F7?style=for-the-badge)
- 
-**Frontend**
-  
+
+### 🎨 Frontend & Design
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-**Backend & Database**
-  
+
+### ⚙️ Backend, Databases & ML
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  
-**AI & Data Science**
-  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
- 
-**Tools & Cloud**
-  
+
+### 🛠️ Developer Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Clever Cloud](https://img.shields.io/badge/Clever_Cloud-E74C3C?style=for-the-badge&logo=clever-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Graffify](https://img.shields.io/badge/Graffify-6E57F7?style=for-the-badge)
- 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<!-- Reliable shields.io stats — pull directly from GitHub API, never break -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,816-6E57F7?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-28-6E57F7?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6E57F7)
-![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
-
-<br/>
-
-<!-- Streak card from demolab — works reliably -->
-<img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF9500&currStreakLabel=6E57F7&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🌎 Open Source Contributions
 
-<div align="center">
+> Contributing to real-world production codebases — merged PRs, security fixes, and community guidance.
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
-
-</div>
-
----
-
-
-## Open Source Contributions
-
-> Contributing to real-world production codebases — merged PRs, security fixes, and performance improvements.
-
-| Repository | Contribution | PR |
+| Repository | Contribution | PR / Issue / Discussion |
 |---|---|---|
+| **[vercel/next.js](https://github.com/vercel/next.js)** | Security: Guidance on resolving PostCSS XSS vulnerability via dependency overrides | [#93718 (Discussion)](https://github.com/vercel/next.js/discussions/93718) |
 | **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback (Merged) | [#41](https://github.com/lovellai-dev/odyssey/pull/41) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add option to scrub inside fenced code blocks with --scrub-fenced | [#6](https://github.com/fishonbike/vault-engine/pull/6) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add word-boundary guards for ASCII surfaces to prevent partial-word hits | [#7](https://github.com/fishonbike/vault-engine/pull/7) |
@@ -168,51 +150,49 @@ const pratik = {
 
 ---
 
-## Featured Projects
+## 📁 Featured Projects
 
 <div align="center">
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
+      <h4>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h4>
       <p>Autonomous AI assistant built with Python — handles complex task execution, system control, and context-aware command processing.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-Assistant-6E57F7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/AI--Orchestration-8B5CF6?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h3>
+      <h4>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h4>
       <p>Real-time stock market web app — fetches live price, day high/low & market data via yFinance API. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo</b></a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Live-Render-22c55e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Live--Demo-22c55e?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h3>
+      <h4>🌾 <a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h4>
       <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS. <a href="https://pratik1258m.github.io/Balajifarm/"><b>Live Demo</b></a></p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Client%20Project-28a745?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Client--Project-28a745?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h3>
+      <h4>🔥 <a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h4>
       <p>Python-based fire alarm detection system — real-time sensor monitoring with automated alert triggers and notification support.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IoT-Detection-E74C3C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IoT--Detection-E74C3C?style=flat-square"/>
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
-## Contribution Graph
+## 📊 Live Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&v=2" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&v=2" alt="Activity Graph" width="100%" />
 
 <br/>
 
@@ -220,15 +200,52 @@ const pratik = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2" width="100%">
 </picture>
 
 </div>
 
 ---
 
-<!-- test signed commits -->
-## 2026 Goals
+## 🏆 GitHub Stats & Trophies
+
+<div align="center">
+
+<!-- Reliable shields.io stats -->
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,816-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-28-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
+![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
+
+<br/>
+
+<!-- Aligned Stats Cards -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" alt="GitHub Stats" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" alt="Top Languages" width="60%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
 
 - [x] Assumed Chief Technology Officer (CTO) role at a startup
 - [x] Completed an advanced AI upskilling program (Model to App) to gain real-world exposure with a top technology company
