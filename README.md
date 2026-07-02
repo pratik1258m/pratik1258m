@@ -45,7 +45,7 @@ const pratik = {
   ],
   openTo:     ["Open Source Contributions", "Collaborations"],
 
-  streak:     "5,257+ contributions (3,441 in 2025 | 1,816+ in 2026) (near-perfect green graph)",
+  streak:     "5,277+ contributions (3,441 in 2025 | 1,836+ in 2026) (near-perfect green graph)",
   funFact:    "I believe elegant code is the foundation of powerful technology",
 };
 ```
@@ -210,7 +210,7 @@ const pratik = {
 <div align="center">
 
 <!-- Reliable shields.io stats -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,816-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,836-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Public%20Repos-28-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
@@ -231,11 +231,6 @@ const pratik = {
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
-
 </div>
 
 ---
@@ -247,7 +242,7 @@ const pratik = {
 - [x] Earned professional certifications in agentic AI and LLM orchestration to expand knowledge of autonomous systems
 - [x] Delivered 12+ client projects for real businesses
 - [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
-- [x] Maintained consistent contribution streak (5,257+ contributions)
+- [x] Maintained consistent contribution streak (5,277+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
 - [ ] Receive 50 stars on a repository
