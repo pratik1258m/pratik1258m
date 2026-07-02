@@ -231,6 +231,11 @@ const pratik = {
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
+
 </div>
 
 ---
