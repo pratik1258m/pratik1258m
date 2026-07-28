@@ -223,7 +223,7 @@ const pratik = {
 
 <!-- Streak card from demolab — works reliably -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500" alt="GitHub Streak"/>
 </p>
 
 <br/>
