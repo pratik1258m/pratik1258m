@@ -137,16 +137,18 @@ const pratik = {
 
 | Repository | Contribution | PR / Issue / Discussion |
 |---|---|---|
+| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback | [#41 (Merged 🎉)](https://github.com/lovellai-dev/odyssey/pull/41) |
+| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | Validation: Enforce 100-character limit on organization names in Zod schema & UI | [#181 (Merged 🎉)](https://github.com/IvanTran-2001/FriendChise/pull/181) |
+| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | Community: Contributor profile registration | [#112691 (Merged 🎉)](https://github.com/firstcontributions/first-contributions/pull/112691) |
+| **[refinedev/refine](https://github.com/refinedev/refine)** | UI/Fix: Add tooltip support for truncated menu labels in ThemedSider | [#7480](https://github.com/refinedev/refine/pull/7480) |
+| **[langgenius/dify](https://github.com/langgenius/dify)** | Refactor: Avoid direct setState in useEffect for custom collection modal | [#38870](https://github.com/langgenius/dify/pull/38870) |
 | **[vercel/next.js](https://github.com/vercel/next.js)** | Security: Guidance on resolving PostCSS XSS vulnerability via dependency overrides | [#93718 (Discussion)](https://github.com/vercel/next.js/discussions/93718) |
-| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback (Merged) | [#41](https://github.com/lovellai-dev/odyssey/pull/41) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add option to scrub inside fenced code blocks with --scrub-fenced | [#6](https://github.com/fishonbike/vault-engine/pull/6) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add word-boundary guards for ASCII surfaces to prevent partial-word hits | [#7](https://github.com/fishonbike/vault-engine/pull/7) |
 | **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Docs: Add documented example and caveats for LM Studio / OpenAI-compat integration | [#8](https://github.com/fishonbike/vault-engine/pull/8) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
 | **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
-| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | Validation: Enforce 100-character limit on organization names in Zod schema & UI (Merged) | [#181](https://github.com/IvanTran-2001/FriendChise/pull/181) |
-| **[lutzkuen/tokenclaw](https://github.com/lutzkuen/tokenclaw)** | Refactor: Extract dashboard HTML template into dedicated stats module | [#931](https://github.com/lutzkuen/tokenclaw/pull/931) |
 
 ---
 
