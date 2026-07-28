@@ -221,9 +221,9 @@ const pratik = {
 
 <br/>
 
-<!-- Streak card from demolab — works reliably -->
+<!-- Streak card from active Vercel mirror — fast response -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500" alt="GitHub Streak"/>
 </p>
 
 <br/>
