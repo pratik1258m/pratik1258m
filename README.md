@@ -34,7 +34,7 @@ const pratik = {
   education:  "BS Computer Science @ University of Mumbai (Vartak College)",
   role:       "Chief Technology Officer & AI Systems Developer",
 
-  experience: "12+ client projects | CTO at a startup | DevOps & AI Internships",
+  experience: "23+ client projects | CTO at a startup | DevOps & AI Internships",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
   credentials: [
@@ -254,7 +254,7 @@ const pratik = {
 - [x] Assumed Chief Technology Officer (CTO) role at a startup
 - [x] Completed an advanced AI upskilling program (Model to App) to gain real-world exposure with a top technology company
 - [x] Earned professional certifications in agentic AI and LLM orchestration to expand knowledge of autonomous systems
-- [x] Delivered 12+ client projects for real businesses
+- [x] Delivered 23+ client projects for real businesses
 - [x] Contributed to open-source repositories (Refine, Dify, Odyssey, FriendChise, Validator.js, Vault Engine)
 - [x] Maintained consistent contribution streak (5,420+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
