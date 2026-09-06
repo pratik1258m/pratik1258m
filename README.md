@@ -45,7 +45,7 @@ const pratik = {
   ],
   openTo:     ["Open Source Contributions", "Collaborations"],
 
-  streak:     "5,400+ contributions (3,441 in 2025 | 1,963+ in 2026) (near-perfect green graph)",
+  streak:     "5,420+ contributions (3,441 in 2025 | 1,979+ in 2026) (near-perfect green graph)",
   linesOfCode:    "1.2M+",
   resolvedBugs:   "999+",
   funFact:    "I believe elegant code is the foundation of powerful technology",
@@ -133,22 +133,19 @@ const pratik = {
 
 ## 🌎 Open Source Contributions
 
-> Contributing to real-world production codebases — merged PRs, security fixes, and community guidance.
+> Contributing to real-world production codebases — merged PRs, security advisories, and active improvements across major developer ecosystems.
 
-| Repository | Contribution | PR / Issue / Discussion |
+| Repository | Scope / Contribution | Status / Reference |
 |---|---|---|
+| **[refinedev/refine](https://github.com/refinedev/refine)** *(35k+ ⭐)* | UI/UX: Add responsive tooltip support for truncated menu labels in `ThemedSider` | [#7480 (Under Review)](https://github.com/refinedev/refine/pull/7480) |
 | **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback | [#41 (Merged 🎉)](https://github.com/lovellai-dev/odyssey/pull/41) |
 | **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | Validation: Enforce 100-character limit on organization names in Zod schema & UI | [#181 (Merged 🎉)](https://github.com/IvanTran-2001/FriendChise/pull/181) |
 | **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | Community: Contributor profile registration | [#112691 (Merged 🎉)](https://github.com/firstcontributions/first-contributions/pull/112691) |
-| **[refinedev/refine](https://github.com/refinedev/refine)** | UI/Fix: Add tooltip support for truncated menu labels in ThemedSider | [#7480](https://github.com/refinedev/refine/pull/7480) |
-| **[langgenius/dify](https://github.com/langgenius/dify)** | Refactor: Avoid direct setState in useEffect for custom collection modal | [#38870](https://github.com/langgenius/dify/pull/38870) |
-| **[vercel/next.js](https://github.com/vercel/next.js)** | Security: Guidance on resolving PostCSS XSS vulnerability via dependency overrides | [#93718 (Discussion)](https://github.com/vercel/next.js/discussions/93718) |
-| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add option to scrub inside fenced code blocks with --scrub-fenced | [#6](https://github.com/fishonbike/vault-engine/pull/6) |
-| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Feature: Add word-boundary guards for ASCII surfaces to prevent partial-word hits | [#7](https://github.com/fishonbike/vault-engine/pull/7) |
-| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Docs: Add documented example and caveats for LM Studio / OpenAI-compat integration | [#8](https://github.com/fishonbike/vault-engine/pull/8) |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Security: auth guards + IDOR protection + XSS sanitization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561) |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Bugs: atomic stock ops, schema constraints, unified threshold | [#562](https://github.com/parthbuilds-community/FitMart/pull/562) |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Perf: deduplicate Google Fonts across all components | [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
+| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js)** *(22k+ ⭐)* | Feature: Add `en-KY` and `en-BB` mobile phone locales support in `isMobilePhone` | [#2716 (Open)](https://github.com/validatorjs/validator.js/pull/2716) |
+| **[langgenius/dify](https://github.com/langgenius/dify)** *(50k+ ⭐)* | Refactor: Avoid direct `setState` inside `useEffect` hook in custom collection modal | [#38870 (Submitted)](https://github.com/langgenius/dify/pull/38870) |
+| **[vercel/next.js](https://github.com/vercel/next.js)** *(120k+ ⭐)* | Security: Guidance on resolving PostCSS XSS vulnerability via dependency overrides | [#93718 (Discussion)](https://github.com/vercel/next.js/discussions/93718) |
+| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Features & Docs: Fenced codeblock scrubbing, ASCII boundary guards & LM Studio integration | [#6](https://github.com/fishonbike/vault-engine/pull/6), [#7](https://github.com/fishonbike/vault-engine/pull/7), [#8](https://github.com/fishonbike/vault-engine/pull/8) |
+| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Full-Stack: Auth guards, IDOR protection, atomic stock ops & font optimization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561), [#562](https://github.com/parthbuilds-community/FitMart/pull/562), [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
 
 ---
 
@@ -214,8 +211,8 @@ const pratik = {
 <div align="center">
 
 <!-- Reliable shields.io stats -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,963+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-33-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,979+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-36-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
 
@@ -232,7 +229,7 @@ const pratik = {
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide=html,css" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide_html,css" height="165" alt="Top Languages" />
 </p>
 
 <br/>
@@ -250,8 +247,8 @@ const pratik = {
 - [x] Completed an advanced AI upskilling program (Model to App) to gain real-world exposure with a top technology company
 - [x] Earned professional certifications in agentic AI and LLM orchestration to expand knowledge of autonomous systems
 - [x] Delivered 12+ client projects for real businesses
-- [x] Contributed to open-source repositories (FitMart, FriendChise, tokenclaw, odyssey, vault-engine)
-- [x] Maintained consistent contribution streak (5,400+ contributions)
+- [x] Contributed to open-source repositories (Refine, Dify, Odyssey, FriendChise, Validator.js, Vault Engine)
+- [x] Maintained consistent contribution streak (5,420+ contributions)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
 - [ ] Receive 50 stars on a repository
