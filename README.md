@@ -34,7 +34,7 @@ const pratik = {
   education:  "BS Computer Science @ University of Mumbai (Vartak College)",
   role:       "Chief Technology Officer & AI Systems Developer",
 
-  experience: "23+ client projects | CTO at a startup | DevOps & AI Internships",
+  experience: "23+ client projects | CTO at a startup | Experienced Freelance Developer",
   currentlyBuilding: "Nexus AI — autonomous assistant with system control",
   learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
   credentials: [
