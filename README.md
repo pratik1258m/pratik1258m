@@ -194,7 +194,7 @@ const pratik = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&v=2" alt="Activity Graph" width="100%" />
+<img src="https://activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&v=2" alt="Activity Graph" width="100%" />
 
 <br/>
 
