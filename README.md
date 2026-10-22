@@ -18,7 +18,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pratik1258m&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&extraCount=500)
 ![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
 
 </div>
