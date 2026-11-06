@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20and%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pratik%20Mishra&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20Systems%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=18" width="100%" />
 
-<!-- Typing Animation -->
+<!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Hello+and+welcome!;Chief+Technology+Officer;Full-Stack+%26+AI+Systems+Developer;Open+Source+Contributor;Building+scalable+AI+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=650&lines=Chief+Technology+Officer+%40+REGNEX;Chief+AI+Officer+%40+MentPersona;Autonomous+Agent+Architect+%26+Full-Stack+Engineer;Creator+of+PersonaAI%2C+Pdf_convo+%26+Nexus+AI;Open+Source+Contributor+(Refine%2C+Dify%2C+Next.js);23%2B+Production+Client+Deliverables+Worldwide" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social & Profile Badges -->
+<!-- Social & Profile Connect -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikai.in)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
@@ -18,6 +18,9 @@
 
 <br/>
 
+<!-- Real-time Profile Status Badges -->
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&extraCount=500)
 ![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
 
@@ -29,53 +32,59 @@
 
 ```typescript
 const pratik = {
-  name:       "Pratik Mishra",
-  location:   "Maharashtra, India",
-  education:  "BS Computer Science @ University of Mumbai (Vartak College)",
-  role:       "Chief Technology Officer & AI Systems Developer",
-
-  experience: "23+ client projects | CTO at a startup | Experienced Freelance Developer",
-  currentlyBuilding: "Nexus AI — autonomous assistant with system control",
-  learning:   ["Generative AI", "Qualcomm AI SDKs", "System Design"],
-  credentials: [
-    "Qualcomm AI Upskilling (Model to App)",
-    "Hugging Face Agentic AI",
-    "Anthropic Claude Code",
-    "edQuest MERN Stack Development"
+  name:          "Pratik Mishra",
+  location:      "Maharashtra, India",
+  education:     "BS Computer Science @ University of Mumbai (Vartak College)",
+  leadership:    [
+    "Chief Technology Officer @ REGNEX (Smart Compliance Management)",
+    "Chief AI Officer @ MentPersona (AI Behavioral Platform)"
   ],
-  openTo:     ["Open Source Contributions", "Collaborations"],
-
-  streak:     "5,420+ contributions (3,441 in 2025 | 1,979+ in 2026) (near-perfect green graph)",
-  linesOfCode:    "1.2M+",
-  resolvedBugs:   "999+",
-  funFact:    "I believe elegant code is the foundation of powerful technology",
+  commercial:    "23+ production client deliverables across web, AI automation & SEO",
+  coreFocus:     [
+    "Autonomous Agent Orchestration",
+    "Real-Time Voice-to-Voice RAG",
+    "Full-Stack SaaS Architecture",
+    "Computer Vision & Native Mobile"
+  ],
+  flagships:     [
+    "PersonaAI", "Pdf_convo", "SocialTranscript", "Nexus AI", "StockBot AI Vision Pro"
+  ],
+  openSource:    [
+    "refinedev/refine (35k+ ⭐)",
+    "langgenius/dify (50k+ ⭐)",
+    "lovellai-dev/odyssey",
+    "vercel/next.js (120k+ ⭐)"
+  ],
+  activity:      "5,586+ lifetime contributions (3,441 in 2025 | 2,145+ in 2026)",
+  linesOfCode:   "1.5M+",
+  mission:       "Engineering low-latency, deterministic AI systems and high-throughput production backends."
 };
 ```
 
 ---
 
-## 🚀 Core Strengths & Focus
+## 🚀 Core Engineering Pillars
 
 <div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & Systems Orchestration</h4>
-      <p>Designing autonomous agent loops, prompt structures, and orchestrating models (Anthropic, OpenAI, Hugging Face) using Qualcomm AI SDKs and local tools.</p>
+      <h4>🤖 Autonomous AI & Voice Systems</h4>
+      <p>Building real-time voice-to-voice RAG pipelines, deterministic state machines (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Groq LPU + Gemini API dual-routing, and on-device neural TTS (Piper & Supertonic in &lt;115ms).</p>
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Full-Stack Scaling & Architecture</h4>
-      <p>Building highly interactive React/Next.js frontends and robust Node.js/Express/FastAPI backends with atomic database constraints and SEO-first strategies.</p>
+      <h4>💻 Full-Stack Scaling & Multi-Tenant Systems</h4>
+      <p>Architecting production SaaS platforms on Next.js 14 App Router, React 19, FastAPI, and Supabase (PostgreSQL) with granular Role-Based Access Control (RBAC), atomic database operations, and PostHog/Sentry observability.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛠️ Open-Source Mentorship & Community</h4>
-      <p>Actively auditing and securing major repositories (vercel/next.js) and fixing security vulnerabilities (PostCSS XSS breakouts, dependency tree audits).</p>
+      <h4>📱 Native Mobile & Vision Intelligence</h4>
+      <p>Developing bare React Native applications with custom spring physics, hardware-accelerated SVG glow auras, camera-based pupil gaze and posture tracking, and Android accessibility-level automation.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Performance & Optimization</h4>
-      <p>Applying best practices to slash page load times, deduplicate font loading, and optimize execution pipelines for both backend environments and UI renders.</p>
+      <h4>☁️ DevOps, Cloud & Automation</h4>
+      <p>Containerizing services with Docker, deploying resilient microservices on Linux VPS instances via Nginx reverse proxies, automated n8n workflows, Puppeteer scraping, and technical SEO architecture.</p>
     </td>
   </tr>
 </table>
@@ -83,65 +92,91 @@ const pratik = {
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🔥 Heavyweight Flagship Projects
 
 <div align="center">
-
-### 💻 Languages & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276A3D?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![XML](https://img.shields.io/badge/XML-6E57F7?style=for-the-badge)
-
-### 🎨 Frontend & Design
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend, Databases & ML
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### ☁️ DevOps, Containers & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VPS Deployment](https://img.shields.io/badge/VPS_Deployment-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ⚡ Automation & Web Scraping
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🛠️ Developer Environment & Design
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎭 <a href="https://github.com/pratik1258m/PersonaAI">PersonaAI</a></h3>
+      <p><b>AI-Powered Personality & Behavioral Coaching Platform</b></p>
+      <p>Production-grade SaaS featuring Vision Intelligence (camera-based canvas tracker for pupil gaze stability, facial focus, and body posture), interactive AI Avatar speech coaches with real-time STT/TTS synthesis, and a STAR behavioral interview simulator.</p>
+      <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vision%20AI-8B5CF6?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/pratik1258m/Pdf_convo">Pdf_convo</a></h3>
+      <p><b>Real-Time Voice-to-Voice PDF Conversation Engine</b></p>
+      <p>Grounded conversational AI over documents. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1ms), local neural speech synthesis via Piper TTS and Supertonic 3 (&lt;112ms execution), paired with a full React Native mobile app and FastAPI backend.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Neural%20TTS-FF9500?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/pratik1258m/SocialTranscript">SocialTranscript</a></h3>
+      <p><b>Universal Zero-Copy Social Media Audio Transcriber</b></p>
+      <p>Native Android accessibility app that taps an unobtrusive floating bubble over Instagram, YouTube, TikTok, or X, resolves audio streams via clipboard trampoline, and outputs word-level timestamps with Groq Whisper v3.</p>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Groq%20Whisper-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
+      <p><b>Autonomous Multi-Modal Operating System Assistant</b></p>
+      <p>Built with a disciplined state machine (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Gemini API + Groq LPU routing (slashing latency by 80&ndash;85%), WhatsApp headless automation, computer vision, and system control.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini%20API-4E75F6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Groq%20LPU-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OS%20Automation-8B5CF6?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot AI Vision Pro</a></h3>
+      <p><b>Algorithmic Financial Analytics & Quantitative Intelligence</b></p>
+      <p>Live financial engine polling NSE/BSE and US equities. Algorithmic indicator calculation (SMA crossovers, RSI-14, MACD, Bollinger Bands via NumPy/Pandas) and proprietary multi-factor "Neural Verdict" with 3D WebGL particle graphics. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo &rarr;</b></a></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Live--Demo-22c55e?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/pratik1258m/VideoToText">VidScript AI</a></h3>
+      <p><b>Video-to-Document Intelligence & Multi-Format Generation</b></p>
+      <p>Automation platform transforming video audio into structured verbatim transcripts, AI-synthesized executive briefs, and formatted exports (PDF, DOCX, and Excel) with an interactive dashboard interface.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Document%20AI-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Format%20Export-22c55e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 </div>
+
+---
+
+## 💼 Commercial Deployments & Client Work (23+ Deliverables)
+
+> Production web platforms, custom AI integrations, and high-conversion portals delivered for businesses:
+
+| Client Project | Focus & Scope | Deliverables & Tech |
+|---|---|---|
+| **VidScript Web** | AI Video-to-Document Platform | Full video ingestion, AI transcript generation, executive summaries, export to PDF, DOCX, and Excel |
+| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** | Tourism & Hospitality Portal | Conversion-focused responsive design, interactive galleries, WhatsApp booking funnel, technical SEO & sitemap |
+| **Balaji Earthmovers** | Industrial Equipment Enterprise | Modern corporate presentation, equipment catalog, lead capture funnels, mobile optimization |
+| **Yamuna Enterprises** | Oil Machinery Manufacturing | Industrial catalog architecture, Google Search Console indexing, domain setup, structured navigation |
+| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, Search Console integration |
+| **Vaity Aqua Resort** | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling and high-performance assets |
 
 ---
 
 ## 🌎 Open Source Contributions
 
-> Contributing to real-world production codebases — merged PRs, security advisories, and active improvements across major developer ecosystems.
+> Active code, security reviews, and architectural improvements across major developer ecosystems:
 
 | Repository | Scope / Contribution | Status / Reference |
 |---|---|---|
@@ -157,40 +192,56 @@ const pratik = {
 
 ---
 
-## 📁 Featured Projects
+## 🛠️ Technical Arsenal & Skills
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h4>
-      <p>Autonomous AI assistant built with Python — handles complex task execution, system control, and context-aware command processing.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI--Orchestration-8B5CF6?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot</a></h4>
-      <p>Real-time stock market web app — fetches live price, day high/low & market data via yFinance API. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo</b></a></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Live--Demo-22c55e?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/pratik1258m/Balajifarm">Balaji Farm</a></h4>
-      <p>Responsive business website delivered for a client — SEO-optimised, mobile-first design built in HTML/CSS. <a href="https://pratik1258m.github.io/Balajifarm/"><b>Live Demo</b></a></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Client--Project-28a745?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔥 <a href="https://github.com/pratik1258m/FireAlarm">FireAlarm</a></h4>
-      <p>Python-based fire alarm detection system — real-time sensor monitoring with automated alert triggers and notification support.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IoT--Detection-E74C3C?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+
+### 💻 Languages & Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI, LLM Orchestration & Audio/Vision
+![Gemini API](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=accelerator&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Whisper STT](https://img.shields.io/badge/Whisper_STT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Piper TTS](https://img.shields.io/badge/Neural_TTS-FF9500?style=for-the-badge)
+
+### 🎨 Frontend, WebGL & Mobile
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend, Databases & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps, Cloud & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Developer Environment & Tooling
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
@@ -219,8 +270,8 @@ const pratik = {
 <div align="center">
 
 <!-- Reliable shields.io stats -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-1,979+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-36-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
 ![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
 
@@ -249,19 +300,19 @@ const pratik = {
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Goals & Milestones
 
-- [x] Assumed Chief Technology Officer (CTO) role at a startup
-- [x] Completed an advanced AI upskilling program (Model to App) to gain real-world exposure with a top technology company
-- [x] Earned professional certifications in agentic AI and LLM orchestration to expand knowledge of autonomous systems
-- [x] Delivered 23+ client projects for real businesses
-- [x] Contributed to open-source repositories (Refine, Dify, Odyssey, FriendChise, Validator.js, Vault Engine)
-- [x] Maintained consistent contribution streak (5,420+ contributions)
+- [x] Assumed Chief Technology Officer (CTO) role at REGNEX & Chief AI Officer at MentPersona
+- [x] Shipped production AI SaaS platforms: **PersonaAI**, **Pdf_convo**, and **SocialTranscript**
+- [x] Completed Qualcomm AI Upskilling (Model to App) & Hugging Face Agentic AI certifications
+- [x] Delivered 23+ commercial client projects for real businesses
+- [x] Contributed to major open-source ecosystems (Refine, Dify, Odyssey, FriendChise, Validator.js, Next.js)
+- [x] Maintained consistent contribution streak (5,586+ lifetime contributions | 2,145+ in 2026)
 - [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
 - [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
 - [ ] Receive 50 stars on a repository
 - [ ] Release Nexus AI v1.0 publicly
-- [ ] Publish technical articles on artificial intelligence and full-stack development
+- [ ] Publish technical articles on real-time neural speech synthesis and agentic state machines
 - [ ] Graduate BS Computer Science with distinction
 
 ---
