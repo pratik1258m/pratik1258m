@@ -72,7 +72,7 @@ const pratik = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎭 <a href="https://github.com/pratik1258m/PersonaAI">PersonaAI</a></h3>
+      <h3>🎭 PersonaAI <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
       <p><b>AI behavioral coaching platform</b></p>
       <p>Vision intelligence for pupil gaze stability, facial focus and posture, AI avatar speech coaching with real-time STT/TTS, and a STAR interview simulator. Multi-tenant SaaS with RBAC and PostHog/Sentry observability.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
@@ -80,7 +80,7 @@ const pratik = {
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/pratik1258m/Pdf_convo">Pdf_convo</a></h3>
+      <h3>🎙️ Pdf_convo <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
       <p><b>Real-time voice-to-voice document conversation</b></p>
       <p>Grounded conversational AI over PDFs. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1 ms), on-device neural TTS via Piper and Supertonic (&lt;112 ms), with a React Native client and FastAPI backend.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -90,7 +90,7 @@ const pratik = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/pratik1258m/SocialTranscript">SocialTranscript</a></h3>
+      <h3>📱 SocialTranscript <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
       <p><b>On-device social media audio transcription</b></p>
       <p>Android accessibility service with a floating overlay that captures audio from Instagram, YouTube, TikTok and X, then returns word-level timestamps via Groq Whisper v3.</p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -115,7 +115,7 @@ const pratik = {
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/pratik1258m/VideoToText">VidScript AI</a></h3>
+      <h3>📄 VidScript AI <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
       <p><b>Video-to-document intelligence</b></p>
       <p>Turns video audio into verbatim transcripts and executive summaries, with structured export to PDF, DOCX and Excel from a single dashboard.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -123,6 +123,8 @@ const pratik = {
     </td>
   </tr>
 </table>
+
+> PersonaAI, Pdf_convo, SocialTranscript and VidScript are private product repositories. Open work on GitHub: **[Nexus AI](https://github.com/pratik1258m/nexus)** and **[StockBot](https://github.com/pratik1258m/Stockbot)**. Product walkthroughs are available on request.
 
 ---
 
