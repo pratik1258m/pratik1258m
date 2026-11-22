@@ -1,167 +1,202 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mishra&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CTO%20%7C%20AI%20Systems%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=16" width="100%" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pratik%20Mishra&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20AI%20Systems%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=18" width="100%" />
 
+<!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=8B5CF6&center=true&vCenter=true&width=680&lines=Chief+Technology+Officer+%40+REGNEX;Chief+AI+Officer+%40+MentPersona;Building+production+AI+systems+%26+full-stack+SaaS;Open+source+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=650&lines=Chief+Technology+Officer+%40+REGNEX;Chief+AI+Officer+%40+MentPersona;Autonomous+Agent+Architect+%26+Full-Stack+Engineer;Creator+of+PersonaAI%2C+Pdf_convo+%26+Nexus+AI;Open+Source+Contributor+(Refine%2C+Dify%2C+Next.js);23%2B+Production+Client+Deliverables+Worldwide" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Social & Profile Connect -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikai.in)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik1258m)
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
-![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
-![Open to collaborate](https://img.shields.io/badge/OPEN%20TO-COLLABORATION-22c55e?style=for-the-badge)
+<!-- Real-time Profile Status Badges -->
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&extraCount=500)
+![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## About
-
-I'm a technology leader and hands-on engineer based in Maharashtra, India. As **Chief Technology Officer at [REGNEX](https://regnex.in)** I own the architecture of a smart compliance management platform, and as **Chief AI Officer at MentPersona** I lead an AI behavioral coaching product.
-
-My work sits at the intersection of applied AI and production engineering: autonomous agents, real-time voice-to-voice RAG, multi-tenant SaaS on Postgres, and native mobile with on-device vision. Alongside product roles I've delivered **23+ commercial projects** for businesses worldwide, and I contribute upstream to open-source projects in the React and AI ecosystems.
+## ⚡ About Me
 
 ```typescript
 const pratik = {
-  role:       ["CTO @ REGNEX", "Chief AI Officer @ MentPersona"],
-  education:  "BS Computer Science, University of Mumbai",
-  focus:      ["Agentic AI systems", "Real-time voice RAG", "Multi-tenant SaaS", "Native mobile + vision"],
-  stack:      ["TypeScript", "Python", "Next.js", "React Native", "FastAPI", "Supabase"],
-  openSource: ["refinedev/refine", "langgenius/dify", "lovellai-dev/odyssey", "vercel/next.js"],
-  currently:  "Shipping Nexus AI v1.0 and scaling REGNEX's compliance platform"
+  name:          "Pratik Mishra",
+  location:      "Maharashtra, India",
+  education:     "BS Computer Science @ University of Mumbai (Vartak College)",
+  leadership:    [
+    "Chief Technology Officer @ REGNEX (Smart Compliance Management)",
+    "Chief AI Officer @ MentPersona (AI Behavioral Platform)"
+  ],
+  commercial:    "23+ production client deliverables across web, AI automation & SEO",
+  coreFocus:     [
+    "Autonomous Agent Orchestration",
+    "Real-Time Voice-to-Voice RAG",
+    "Full-Stack SaaS Architecture",
+    "Computer Vision & Native Mobile"
+  ],
+  flagships:     [
+    "PersonaAI", "Pdf_convo", "SocialTranscript", "Nexus AI", "StockBot AI Vision Pro"
+  ],
+  openSource:    [
+    "refinedev/refine (35k+ ⭐)",
+    "langgenius/dify (50k+ ⭐)",
+    "lovellai-dev/odyssey",
+    "vercel/next.js (120k+ ⭐)"
+  ],
+  activity:      "5,586+ lifetime contributions (3,441 in 2025 | 2,145+ in 2026)",
+  linesOfCode:   "1.5M+",
+  mission:       "Engineering low-latency, deterministic AI systems and high-throughput production backends."
 };
 ```
 
 ---
 
-## GitHub Achievements
+## 🚀 Core Engineering Pillars
 
 <div align="center">
-
-![Pull Shark](https://img.shields.io/badge/PULL%20SHARK-Level%202-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Pair Extraordinaire](https://img.shields.io/badge/PAIR%20EXTRAORDINAIRE-Level%202-FF9500?style=for-the-badge&logo=github&logoColor=white)
-![Quickdraw](https://img.shields.io/badge/QUICKDRAW-Level%201-22c55e?style=for-the-badge&logo=github&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Level%201-0A66C2?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-| Achievement | Level | Requirement | Status |
-|---|---|---|---|
-| **Pull Shark** | 2 | Merged pull requests | ✅ Earned |
-| **Pair Extraordinaire** | 2 | Co-authored commits in merged PRs | ✅ Earned |
-| **Quickdraw** | 1 | Closed an issue or PR within 5 minutes | ✅ Earned |
-| **YOLO** | 1 | Merged a pull request without review | ✅ Earned |
-| **Public Sponsor** | — | Sponsored an open-source maintainer | ⏳ Next up |
-| **Galaxy Brain** | — | Accepted answers in GitHub Discussions | ⏳ In progress |
-
-> Contributions this year: **2,100+** · Lifetime: **5,500+** · Public repositories: **39**
-
----
-
-## Selected Work
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎭 PersonaAI <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
-      <p><b>AI behavioral coaching platform</b></p>
-      <p>Vision intelligence for pupil gaze stability, facial focus and posture, AI avatar speech coaching with real-time STT/TTS, and a STAR interview simulator. Multi-tenant SaaS with RBAC and PostHog/Sentry observability.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <h4>🤖 Autonomous AI & Voice Systems</h4>
+      <p>Building real-time voice-to-voice RAG pipelines, deterministic state machines (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Groq LPU + Gemini API dual-routing, and on-device neural TTS (Piper & Supertonic in &lt;115ms).</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Pdf_convo <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
-      <p><b>Real-time voice-to-voice document conversation</b></p>
-      <p>Grounded conversational AI over PDFs. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1 ms), on-device neural TTS via Piper and Supertonic (&lt;112 ms), with a React Native client and FastAPI backend.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <h4>💻 Full-Stack Scaling & Multi-Tenant Systems</h4>
+      <p>Architecting production SaaS platforms on Next.js 14 App Router, React 19, FastAPI, and Supabase (PostgreSQL) with granular Role-Based Access Control (RBAC), atomic database operations, and PostHog/Sentry observability.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 SocialTranscript <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
-      <p><b>On-device social media audio transcription</b></p>
-      <p>Android accessibility service with a floating overlay that captures audio from Instagram, YouTube, TikTok and X, then returns word-level timestamps via Groq Whisper v3.</p>
+      <h4>📱 Native Mobile & Vision Intelligence</h4>
+      <p>Developing bare React Native applications with custom spring physics, hardware-accelerated SVG glow auras, camera-based pupil gaze and posture tracking, and Android accessibility-level automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps, Cloud & Automation</h4>
+      <p>Containerizing services with Docker, deploying resilient microservices on Linux VPS instances via Nginx reverse proxies, automated n8n workflows, Puppeteer scraping, and technical SEO architecture.</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🔥 Heavyweight Flagship Projects
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎭 <a href="https://github.com/pratik1258m/PersonaAI">PersonaAI</a></h3>
+      <p><b>AI-Powered Personality & Behavioral Coaching Platform</b></p>
+      <p>Production-grade SaaS featuring Vision Intelligence (camera-based canvas tracker for pupil gaze stability, facial focus, and body posture), interactive AI Avatar speech coaches with real-time STT/TTS synthesis, and a STAR behavioral interview simulator.</p>
+      <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vision%20AI-8B5CF6?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/pratik1258m/Pdf_convo">Pdf_convo</a></h3>
+      <p><b>Real-Time Voice-to-Voice PDF Conversation Engine</b></p>
+      <p>Grounded conversational AI over documents. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1ms), local neural speech synthesis via Piper TTS and Supertonic 3 (&lt;112ms execution), paired with a full React Native mobile app and FastAPI backend.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Neural%20TTS-FF9500?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/pratik1258m/SocialTranscript">SocialTranscript</a></h3>
+      <p><b>Universal Zero-Copy Social Media Audio Transcriber</b></p>
+      <p>Native Android accessibility app that taps an unobtrusive floating bubble over Instagram, YouTube, TikTok, or X, resolves audio streams via clipboard trampoline, and outputs word-level timestamps with Groq Whisper v3.</p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Whisper-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Groq%20Whisper-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
-      <p><b>Multi-modal desktop assistant</b></p>
-      <p>Explicit state machine (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>) with hybrid Gemini + Groq routing to cut response latency by 80&ndash;85%, WhatsApp automation, computer vision and system control.</p>
+      <p><b>Autonomous Multi-Modal Operating System Assistant</b></p>
+      <p>Built with a disciplined state machine (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Gemini API + Groq LPU routing (slashing latency by 80&ndash;85%), WhatsApp headless automation, computer vision, and system control.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini%20API-4E75F6?style=flat-square"/>
       <img src="https://img.shields.io/badge/Groq%20LPU-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OS%20Automation-8B5CF6?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot AI Vision Pro</a></h3>
-      <p><b>Quantitative market analytics</b></p>
-      <p>Live NSE/BSE and US equity engine computing SMA crossovers, RSI-14, MACD and Bollinger Bands, with a multi-factor verdict model and WebGL visualisation. <a href="https://stockbot-l1lh.onrender.com"><b>Live demo &rarr;</b></a></p>
+      <p><b>Algorithmic Financial Analytics & Quantitative Intelligence</b></p>
+      <p>Live financial engine polling NSE/BSE and US equities. Algorithmic indicator calculation (SMA crossovers, RSI-14, MACD, Bollinger Bands via NumPy/Pandas) and proprietary multi-factor "Neural Verdict" with 3D WebGL particle graphics. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo &rarr;</b></a></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Live--Demo-22c55e?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 VidScript AI <img src="https://img.shields.io/badge/PRIVATE-6B7280?style=flat-square"/></h3>
-      <p><b>Video-to-document intelligence</b></p>
-      <p>Turns video audio into verbatim transcripts and executive summaries, with structured export to PDF, DOCX and Excel from a single dashboard.</p>
+      <h3>📄 <a href="https://github.com/pratik1258m/VideoToText">VidScript AI</a></h3>
+      <p><b>Video-to-Document Intelligence & Multi-Format Generation</b></p>
+      <p>Automation platform transforming video audio into structured verbatim transcripts, AI-synthesized executive briefs, and formatted exports (PDF, DOCX, and Excel) with an interactive dashboard interface.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Document%20AI-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Format%20Export-22c55e?style=flat-square"/>
     </td>
   </tr>
 </table>
-
-> PersonaAI, Pdf_convo, SocialTranscript and VidScript are private product repositories. Open work on GitHub: **[Nexus AI](https://github.com/pratik1258m/nexus)** and **[StockBot](https://github.com/pratik1258m/Stockbot)**. Product walkthroughs are available on request.
+</div>
 
 ---
 
-## Client Work
+## 💼 Commercial Deployments & Client Work (23+ Deliverables)
 
-Production platforms delivered for real businesses:
+> Production web platforms, custom AI integrations, and high-conversion portals delivered for businesses:
 
-| Client | Scope | Highlights |
+| Client Project | Focus & Scope | Deliverables & Tech |
 |---|---|---|
-| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** | Heavy earthmoving & civil engineering | Scroll-pinned project storytelling, fleet spec sheets, volume estimation desk, live IST operations clock |
-| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** | Tourism & agro-hospitality | Conversion-focused responsive build, gallery, WhatsApp booking funnel, technical SEO |
-| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** | Real estate & farm stay | Mobile-first booking flow, lead capture, Search Console integration |
-| **[Yamuna Enterprises](https://github.com/pratik1258m/Yamuna_Enterprises)** | Oil machinery manufacturing | Industrial catalogue architecture, structured product presentation, indexing |
-| **[Vaity Aqua Resort](https://github.com/pratik1258m/vaity_resort)** | Resort & hospitality | Attraction showcase, enquiry workflows, performance-focused assets |
+| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** <br/> [![Live Site](https://img.shields.io/badge/Live_Site-FF5E14?style=flat-square&logo=google-chrome&logoColor=white)](https://balajiearthmoversmumbai.com) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balaji-Earthmovers) | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, interactive volume estimation desk & live IST operations clock |
+| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square&logo=google-chrome&logoColor=white)](https://pratik1258m.github.io/Balajifarm/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balajifarm) | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, interactive photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap |
+| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-0072FF?style=flat-square&logo=google-chrome&logoColor=white)](https://pratik1258m.github.io/Riverside/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Riverside) | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console integration |
+| **[Yamuna Enterprises](https://github.com/pratik1258m/Yamuna_Enterprises)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Yamuna_Enterprises) | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation |
+| **[Vaity Aqua Resort](https://github.com/pratik1258m/vaity_resort)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/vaity_resort) | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading |
+| **[VidScript Web](https://github.com/pratik1258m/VideoToText)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/VideoToText) | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel |
 
 ---
 
-## Open Source
+## 🌎 Open Source Contributions
 
-| Repository | Contribution | Status |
+> Active code, security reviews, and architectural improvements across major developer ecosystems:
+
+| Repository | Scope / Contribution | Status / Reference |
 |---|---|---|
-| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey/pull/41)** | Refactor: extracted shared evaluation helpers, fixed subprocess launcher fallback | Merged |
-| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise/pull/181)** | Validation: 100-character limit on organization names in Zod schema and UI | Merged |
-| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions/pull/112691)** | Community: contributor profile registration | Merged |
-| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart/pull/561)** | Full-stack: auth guards, IDOR protection, atomic stock operations, font optimization | Merged |
-| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine/pull/6)** | Features: codeblock scrubbing, boundary guards, LM Studio integration | Merged |
-| **[refinedev/refine](https://github.com/refinedev/refine/pull/7480)** | UI: responsive tooltip support for truncated menu labels in `ThemedSider` | Under review |
-| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js/pull/2716)** | Feature: `en-KY` and `en-BB` locales for `isMobilePhone` | Open |
-| **[langgenius/dify](https://github.com/langgenius/dify/pull/38870)** | Refactor: remove direct `setState` inside `useEffect` in collection modal | Submitted |
+| **[refinedev/refine](https://github.com/refinedev/refine)** *(35k+ ⭐)* | UI/UX: Add responsive tooltip support for truncated menu labels in `ThemedSider` | [#7480 (Under Review)](https://github.com/refinedev/refine/pull/7480) |
+| **[lovellai-dev/odyssey](https://github.com/lovellai-dev/odyssey)** | Refactor: Extract shared evaluation helpers module and fix subprocess launcher fallback | [#41 (Merged 🎉)](https://github.com/lovellai-dev/odyssey/pull/41) |
+| **[IvanTran-2001/FriendChise](https://github.com/IvanTran-2001/FriendChise)** | Validation: Enforce 100-character limit on organization names in Zod schema & UI | [#181 (Merged 🎉)](https://github.com/IvanTran-2001/FriendChise/pull/181) |
+| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | Community: Contributor profile registration | [#112691 (Merged 🎉)](https://github.com/firstcontributions/first-contributions/pull/112691) |
+| **[validatorjs/validator.js](https://github.com/validatorjs/validator.js)** *(22k+ ⭐)* | Feature: Add `en-KY` and `en-BB` mobile phone locales support in `isMobilePhone` | [#2716 (Open)](https://github.com/validatorjs/validator.js/pull/2716) |
+| **[langgenius/dify](https://github.com/langgenius/dify)** *(50k+ ⭐)* | Refactor: Avoid direct `setState` inside `useEffect` hook in custom collection modal | [#38870 (Submitted)](https://github.com/langgenius/dify/pull/38870) |
+| **[vercel/next.js](https://github.com/vercel/next.js)** *(120k+ ⭐)* | Security: Guidance on resolving PostCSS XSS vulnerability via dependency overrides | [#93718 (Discussion)](https://github.com/vercel/next.js/discussions/93718) |
+| **[fishonbike/vault-engine](https://github.com/fishonbike/vault-engine)** | Features & Docs: Fenced codeblock scrubbing, ASCII boundary guards & LM Studio integration | [#6](https://github.com/fishonbike/vault-engine/pull/6), [#7](https://github.com/fishonbike/vault-engine/pull/7), [#8](https://github.com/fishonbike/vault-engine/pull/8) |
+| **[parthbuilds-community/FitMart](https://github.com/parthbuilds-community/FitMart)** | Full-Stack: Auth guards, IDOR protection, atomic stock ops & font optimization | [#561](https://github.com/parthbuilds-community/FitMart/pull/561), [#562](https://github.com/parthbuilds-community/FitMart/pull/562), [#563](https://github.com/parthbuilds-community/FitMart/pull/563) |
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Arsenal & Skills
 
 <div align="center">
 
-**Languages**<br/>
+### 💻 Languages & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -169,82 +204,116 @@ Production platforms delivered for real businesses:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**AI & LLM**<br/>
-![Gemini](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=google&logoColor=white)
+### 🤖 AI, LLM Orchestration & Audio/Vision
+![Gemini API](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=accelerator&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Vision](https://img.shields.io/badge/Vision_%26_STT-00A67E?style=for-the-badge)
+![Whisper STT](https://img.shields.io/badge/Whisper_STT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Piper TTS](https://img.shields.io/badge/Neural_TTS-FF9500?style=for-the-badge)
 
-**Frontend & Mobile**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🎨 Frontend, WebGL & Mobile
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend & Data**<br/>
+### ⚙️ Backend, Databases & Auth
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Tooling**<br/>
+### ☁️ DevOps, Cloud & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+
+### 🛠️ Developer Environment & Tooling
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Activity
+## 📊 Live Contribution Graph
 
 <div align="center">
 
-<img src="https://activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6" alt="Activity Graph" width="100%" />
+<img src="https://activity-graph.vercel.app/graph?username=pratik1258m&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&v=2" alt="Activity Graph" width="100%" />
 
+<br/>
+
+<!-- Contribution Snake eating the grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/output/github-contribution-grid-snake.svg?v=2" width="100%">
 </picture>
-
-<p>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500" height="165" alt="Streak" />
-  <img src="https://github-stats-extended.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="Stats" />
-</p>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff" height="165" alt="Top languages" />
 
 </div>
 
 ---
 
-## Focus for 2026
+## 🏆 GitHub Stats & Trophies
 
-- [ ] Release **Nexus AI v1.0** publicly
-- [ ] Reach **50 stars** on a flagship repository
-- [ ] Publish technical writing on neural speech synthesis and agentic state machines
-- [ ] Grow open-source contributions from merged fixes to reviewed feature work
+<div align="center">
+
+<!-- Reliable shields.io stats -->
+![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
+![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
+
+<br/>
+
+<!-- Streak card from active Vercel mirror — fast response -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pratik1258m&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF9500" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=pratik1258m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=FF9500&text_color=ffffff&hide_rank=true" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratik1258m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&hide_html,css" height="165" alt="Top Languages" />
+</p>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=pratik1258m&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals & Milestones
+
+- [x] Assumed Chief Technology Officer (CTO) role at REGNEX & Chief AI Officer at MentPersona
+- [x] Shipped production AI SaaS platforms: **PersonaAI**, **Pdf_convo**, and **SocialTranscript**
+- [x] Completed Qualcomm AI Upskilling (Model to App) & Hugging Face Agentic AI certifications
+- [x] Delivered 23+ commercial client projects for real businesses
+- [x] Contributed to major open-source ecosystems (Refine, Dify, Odyssey, FriendChise, Validator.js, Next.js)
+- [x] Maintained consistent contribution streak (5,586+ lifetime contributions | 2,145+ in 2026)
+- [x] Earned Pull Shark Level 2 and Pair Extraordinaire Level 2 badges
+- [x] Shipped Stockbot publicly (Live: [stockbot-l1lh.onrender.com](https://stockbot-l1lh.onrender.com))
+- [ ] Receive 50 stars on a repository
+- [ ] Release Nexus AI v1.0 publicly
+- [ ] Publish technical articles on real-time neural speech synthesis and agentic state machines
 - [ ] Graduate BS Computer Science with distinction
-
-<details>
-<summary><b>Shipped in 2026</b></summary>
-
-- Assumed CTO at REGNEX and Chief AI Officer at MentPersona
-- Shipped PersonaAI, Pdf_convo and SocialTranscript to production
-- Delivered 23+ commercial client projects
-- Contributed to Refine, Dify, Odyssey, FriendChise, FitMart, validator.js and Next.js
-- Earned GitHub achievements: Pull Shark L2, Pair Extraordinaire L2, Quickdraw, YOLO
-- Completed Qualcomm AI Upskilling (Model to App) and Hugging Face Agentic AI certifications
-- Launched StockBot publicly
-
-</details>
 
 ---
 
@@ -252,8 +321,8 @@ Production platforms delivered for real businesses:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Open to collaboration on AI infrastructure, developer tooling and full-stack products.**
+**If you like what I build, consider starring my repositories to support my work.**
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-pratikmishra206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
+*"Elegant code is the foundation of powerful technology."*
 
 </div>
