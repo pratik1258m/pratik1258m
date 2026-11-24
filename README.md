@@ -12,17 +12,17 @@
 
 <!-- Social & Profile Connect -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikai.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pratikai.in)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik1258m)
 
 <br/>
 
 <!-- Real-time Profile Status Badges -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions_2026-2145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public_Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&extraCount=500)
-![GitHub followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS)
+![Followers](https://img.shields.io/badge/Followers-9-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -101,10 +101,10 @@ const pratik = {
       <h3>🎭 <a href="https://github.com/pratik1258m/PersonaAI">PersonaAI</a></h3>
       <p><b>AI-Powered Personality & Behavioral Coaching Platform</b></p>
       <p>Production-grade SaaS featuring Vision Intelligence (camera-based canvas tracker for pupil gaze stability, facial focus, and body posture), interactive AI Avatar speech coaches with real-time STT/TTS synthesis, and a STAR behavioral interview simulator.</p>
-      <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vision%20AI-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vision_AI-8B5CF6?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/pratik1258m/Pdf_convo">Pdf_convo</a></h3>
@@ -112,8 +112,8 @@ const pratik = {
       <p>Grounded conversational AI over documents. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1ms), local neural speech synthesis via Piper TTS and Supertonic 3 (&lt;112ms execution), paired with a full React Native mobile app and FastAPI backend.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Neural%20TTS-FF9500?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Neural_TTS-FF9500?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -122,8 +122,8 @@ const pratik = {
       <p><b>Universal Zero-Copy Social Media Audio Transcriber</b></p>
       <p>Native Android accessibility app that taps an unobtrusive floating bubble over Instagram, YouTube, TikTok, or X, resolves audio streams via clipboard trampoline, and outputs word-level timestamps with Groq Whisper v3.</p>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Groq%20Whisper-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square"/>
       <img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
@@ -131,9 +131,9 @@ const pratik = {
       <p><b>Autonomous Multi-Modal Operating System Assistant</b></p>
       <p>Built with a disciplined state machine (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Gemini API + Groq LPU routing (slashing latency by 80&ndash;85%), WhatsApp headless automation, computer vision, and system control.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini%20API-4E75F6?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Groq%20LPU-F55036?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OS%20Automation-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Gemini_API-4E75F6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OS_Automation-8B5CF6?style=flat-square"/>
     </td>
   </tr>
   <tr>
@@ -150,8 +150,8 @@ const pratik = {
       <p><b>Video-to-Document Intelligence & Multi-Format Generation</b></p>
       <p>Automation platform transforming video audio into structured verbatim transcripts, AI-synthesized executive briefs, and formatted exports (PDF, DOCX, and Excel) with an interactive dashboard interface.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Document%20AI-8B5CF6?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Multi--Format%20Export-22c55e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Document_AI-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Format_Export-22c55e?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -165,9 +165,9 @@ const pratik = {
 
 | Client Project | Focus & Scope | Deliverables & Tech |
 |---|---|---|
-| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** <br/> [![Live Site](https://img.shields.io/badge/Live_Site-FF5E14?style=flat-square&logo=google-chrome&logoColor=white)](https://balajiearthmoversmumbai.com) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balaji-Earthmovers) | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, interactive volume estimation desk & live IST operations clock |
-| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square&logo=google-chrome&logoColor=white)](https://pratik1258m.github.io/Balajifarm/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balajifarm) | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, interactive photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap |
-| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-0072FF?style=flat-square&logo=google-chrome&logoColor=white)](https://pratik1258m.github.io/Riverside/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Riverside) | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console integration |
+| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** <br/> [![Live Site](https://img.shields.io/badge/Live_Site-FF5E14?style=flat-square&logo=googlechrome&logoColor=white)](https://balajiearthmoversmumbai.com) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balaji-Earthmovers) | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, interactive volume estimation desk & live IST operations clock |
+| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik1258m.github.io/Balajifarm/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balajifarm) | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, interactive photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap |
+| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-0072FF?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik1258m.github.io/Riverside/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Riverside) | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console integration |
 | **[Yamuna Enterprises](https://github.com/pratik1258m/Yamuna_Enterprises)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Yamuna_Enterprises) | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation |
 | **[Vaity Aqua Resort](https://github.com/pratik1258m/vaity_resort)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/vaity_resort) | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading |
 | **[VidScript Web](https://github.com/pratik1258m/VideoToText)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/VideoToText) | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel |
@@ -205,9 +205,9 @@ const pratik = {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🤖 AI, LLM Orchestration & Audio/Vision
-![Gemini API](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=google&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=accelerator&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Whisper STT](https://img.shields.io/badge/Whisper_STT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Piper TTS](https://img.shields.io/badge/Neural_TTS-FF9500?style=for-the-badge)
@@ -230,7 +230,7 @@ const pratik = {
 
 ### ☁️ DevOps, Cloud & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=linux&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -268,14 +268,6 @@ const pratik = {
 ## 🏆 GitHub Stats & Trophies
 
 <div align="center">
-
-<!-- Reliable shields.io stats -->
-![Contributions](https://img.shields.io/badge/Contributions%20(2026)-2,145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Public%20Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)
-![Stars](https://img.shields.io/github/stars/pratik1258m?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FF9500)
-
-<br/>
 
 <!-- Streak card from active Vercel mirror — fast response -->
 <p align="center">
