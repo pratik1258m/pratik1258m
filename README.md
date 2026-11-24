@@ -11,18 +11,18 @@
 <br/>
 
 <!-- Social & Profile Connect -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik1258m/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pratikai.in)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikmishra206@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik1258m)
+[![LinkedIn](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/linkedin.svg)](https://www.linkedin.com/in/pratik1258m/)
+[![Portfolio](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/portfolio.svg)](https://pratikai.in)
+[![Gmail](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/gmail.svg)](mailto:pratikmishra206@gmail.com)
+[![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/github.svg)](https://github.com/pratik1258m)
 
 <br/>
 
 <!-- Real-time Profile Status Badges -->
-![Contributions](https://img.shields.io/badge/Contributions_2026-2145+-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/Public_Repos-39-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/contributions.svg)
+![Public Repos](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/public-repos.svg)
 ![Profile Views](https://hits.sh/github.com/pratik1258m.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&extraCount=500)
-![Followers](https://img.shields.io/badge/Followers-9-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/followers.svg)
 
 </div>
 
@@ -101,19 +101,19 @@ const pratik = {
       <h3>🎭 <a href="https://github.com/pratik1258m/PersonaAI">PersonaAI</a></h3>
       <p><b>AI-Powered Personality & Behavioral Coaching Platform</b></p>
       <p>Production-grade SaaS featuring Vision Intelligence (camera-based canvas tracker for pupil gaze stability, facial focus, and body posture), interactive AI Avatar speech coaches with real-time STT/TTS synthesis, and a STAR behavioral interview simulator.</p>
-      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vision_AI-8B5CF6?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-nextjs14.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-typescript.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-supabase.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-vision-ai.svg"/>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/pratik1258m/Pdf_convo">Pdf_convo</a></h3>
       <p><b>Real-Time Voice-to-Voice PDF Conversation Engine</b></p>
       <p>Grounded conversational AI over documents. Line-aware Okapi BM25 retrieval (0.7&ndash;2.1ms), local neural speech synthesis via Piper TTS and Supertonic 3 (&lt;112ms execution), paired with a full React Native mobile app and FastAPI backend.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Neural_TTS-FF9500?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-python.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-fastapi.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-react-native.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-neural-tts.svg"/>
     </td>
   </tr>
   <tr>
@@ -121,19 +121,19 @@ const pratik = {
       <h3>📱 <a href="https://github.com/pratik1258m/SocialTranscript">SocialTranscript</a></h3>
       <p><b>Universal Zero-Copy Social Media Audio Transcriber</b></p>
       <p>Native Android accessibility app that taps an unobtrusive floating bubble over Instagram, YouTube, TikTok, or X, resolves audio streams via clipboard trampoline, and outputs word-level timestamps with Groq Whisper v3.</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Accessibility-0A66C2?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-android.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-react-native.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-groq-whisper.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-accessibility.svg"/>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/pratik1258m/nexus">Nexus AI</a></h3>
       <p><b>Autonomous Multi-Modal Operating System Assistant</b></p>
       <p>Built with a disciplined state machine (<code>IDLE</code> &rarr; <code>THINKING</code> &rarr; <code>EXECUTING</code>), hybrid Gemini API + Groq LPU routing (slashing latency by 80&ndash;85%), WhatsApp headless automation, computer vision, and system control.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini_API-4E75F6?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square"/>
-      <img src="https://img.shields.io/badge/OS_Automation-8B5CF6?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-python.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-gemini.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-groq-lpu.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-os-automation.svg"/>
     </td>
   </tr>
   <tr>
@@ -141,17 +141,17 @@ const pratik = {
       <h3>📈 <a href="https://github.com/pratik1258m/Stockbot">StockBot AI Vision Pro</a></h3>
       <p><b>Algorithmic Financial Analytics & Quantitative Intelligence</b></p>
       <p>Live financial engine polling NSE/BSE and US equities. Algorithmic indicator calculation (SMA crossovers, RSI-14, MACD, Bollinger Bands via NumPy/Pandas) and proprietary multi-factor "Neural Verdict" with 3D WebGL particle graphics. <a href="https://stockbot-l1lh.onrender.com"><b>Live Demo &rarr;</b></a></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Live--Demo-22c55e?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-python.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-threejs.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-live-demo.svg"/>
     </td>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/pratik1258m/VideoToText">VidScript AI</a></h3>
       <p><b>Video-to-Document Intelligence & Multi-Format Generation</b></p>
       <p>Automation platform transforming video audio into structured verbatim transcripts, AI-synthesized executive briefs, and formatted exports (PDF, DOCX, and Excel) with an interactive dashboard interface.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Document_AI-8B5CF6?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Multi--Format_Export-22c55e?style=flat-square"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-javascript.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-document-ai.svg"/>
+      <img src="https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sm-multi-format.svg"/>
     </td>
   </tr>
 </table>
@@ -165,12 +165,12 @@ const pratik = {
 
 | Client Project | Focus & Scope | Deliverables & Tech |
 |---|---|---|
-| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** <br/> [![Live Site](https://img.shields.io/badge/Live_Site-FF5E14?style=flat-square&logo=googlechrome&logoColor=white)](https://balajiearthmoversmumbai.com) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balaji-Earthmovers) | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, interactive volume estimation desk & live IST operations clock |
-| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik1258m.github.io/Balajifarm/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Balajifarm) | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, interactive photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap |
-| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-0072FF?style=flat-square&logo=googlechrome&logoColor=white)](https://pratik1258m.github.io/Riverside/) [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Riverside) | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console integration |
-| **[Yamuna Enterprises](https://github.com/pratik1258m/Yamuna_Enterprises)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/Yamuna_Enterprises) | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation |
-| **[Vaity Aqua Resort](https://github.com/pratik1258m/vaity_resort)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/vaity_resort) | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading |
-| **[VidScript Web](https://github.com/pratik1258m/VideoToText)** <br/> [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratik1258m/VideoToText) | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel |
+| **[Balaji Earthmovers](https://balajiearthmoversmumbai.com)** <br/> [![Live Site](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/live-site.svg)](https://balajiearthmoversmumbai.com) [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/Balaji-Earthmovers) | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, interactive volume estimation desk & live IST operations clock |
+| **[Balaji Farm Stay](https://pratik1258m.github.io/Balajifarm/)** <br/> [![Live Demo](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/live-demo-green.svg)](https://pratik1258m.github.io/Balajifarm/) [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/Balajifarm) | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, interactive photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap |
+| **[Riverside Farm](https://pratik1258m.github.io/Riverside/)** <br/> [![Live Demo](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/live-demo-blue.svg)](https://pratik1258m.github.io/Riverside/) [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/Riverside) | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console integration |
+| **[Yamuna Enterprises](https://github.com/pratik1258m/Yamuna_Enterprises)** <br/> [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/Yamuna_Enterprises) | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation |
+| **[Vaity Aqua Resort](https://github.com/pratik1258m/vaity_resort)** <br/> [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/vaity_resort) | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading |
+| **[VidScript Web](https://github.com/pratik1258m/VideoToText)** <br/> [![GitHub](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/repository.svg)](https://github.com/pratik1258m/VideoToText) | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel |
 
 ---
 
@@ -197,50 +197,50 @@ const pratik = {
 <div align="center">
 
 ### 💻 Languages & Core
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/typescript.svg)
+![JavaScript](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/javascript.svg)
+![Python](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/python.svg)
+![Java](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/java.svg)
+![SQL](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/sql.svg)
+![C++](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/cpp.svg)
 
 ### 🤖 AI, LLM Orchestration & Audio/Vision
-![Gemini API](https://img.shields.io/badge/Gemini_API-4E75F6?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Whisper STT](https://img.shields.io/badge/Whisper_STT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Piper TTS](https://img.shields.io/badge/Neural_TTS-FF9500?style=for-the-badge)
+![Gemini API](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/gemini.svg)
+![OpenAI](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/openai.svg)
+![Groq](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/groq.svg)
+![Hugging Face](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/huggingface.svg)
+![Whisper STT](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/whisper.svg)
+![Piper TTS](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/neural-tts.svg)
 
 ### 🎨 Frontend, WebGL & Mobile
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React 19](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/react19.svg)
+![Next.js](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/nextjs.svg)
+![React Native](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/react-native.svg)
+![Three.js](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/threejs.svg)
+![TailwindCSS](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/tailwind.svg)
+![Framer Motion](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/framer.svg)
 
 ### ⚙️ Backend, Databases & Auth
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/nodejs.svg)
+![Express](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/express.svg)
+![FastAPI](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/fastapi.svg)
+![Flask](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/flask.svg)
+![Supabase](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/supabase.svg)
+![MongoDB](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/mongodb.svg)
 
 ### ☁️ DevOps, Cloud & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/Linux_VPS-2C3E50?style=for-the-badge&logo=ubuntu&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/docker.svg)
+![Linux VPS](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/linux-vps.svg)
+![n8n](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/n8n.svg)
+![Puppeteer](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/puppeteer.svg)
+![GitHub Actions](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/github-actions.svg)
+![Vercel](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/vercel.svg)
 
 ### 🛠️ Developer Environment & Tooling
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/vscode.svg)
+![Cursor AI](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/cursor.svg)
+![Figma](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/figma.svg)
+![Postman](https://raw.githubusercontent.com/pratik1258m/pratik1258m/main/assets/badges/postman.svg)
 
 </div>
 
